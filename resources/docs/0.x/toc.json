@@ -1,0 +1,38 @@
+[
+    {
+        "pages": [
+            "domain-proposal",
+            "application-nature",
+            "conceptual-schema-design",
+            "workload",
+            "aggregate-oriented-design",
+            {
+                "name": "MongoDB Desgin",
+                "link": "mongodb-design"
+            },
+            "cassandra-design",
+            "neo4j-design",
+            "suitable-system",
+            "system-configuration",
+            "logical-schema",
+            {
+                "name": "MongoDB Instance",
+                "link": "mongodb-instance"
+            },
+            "workload-implementation",
+            {
+                "name": "Model in RDFS/OWL",
+                "link": "model-in-rdfs-owl"
+            },
+            {
+                "name": "RDF Instance",
+                "link": "rdf-instance"
+            },
+            {
+                "name": "SPARQL Queries",
+                "link": "sparql-queries"
+            },
+            "check-correctness"
+        ]
+    }
+]
